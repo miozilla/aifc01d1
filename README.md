@@ -5,7 +5,7 @@ aifc01d1 : Text from Image to Speech Document Handling # Textract # Polly # Lamb
 ## Objective 
 - Extract text from images using Amazon Textract.
 - Convert text to speech using Amazon Polly.
-- - Automate process using AWS Lambda
+- Automate process using AWS Lambda
 
 
 ## AnyCompany Consulting Streamline Document Processing
