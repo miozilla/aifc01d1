@@ -1,4 +1,4 @@
-# aifc01d1
+# aifc01d1 🐑✍️🗣️
 aifc01d1 : Text from Image to Speech Document Handling # Textract # Polly # Lambda #  S3
 
 
